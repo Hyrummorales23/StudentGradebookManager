@@ -6,7 +6,7 @@ The Student Gradebook Manager is a console-based Java application designed to he
 
 My purpose in creating this software was to demonstrate proficiency in Java programming while solving a real-world problem faced by educators. This project showcases my ability to design object-oriented solutions, implement file I/O operations, and create practical applications with clean, maintainable code.
 
-[Software Demo Video](http://youtube.link.goes.here) \_← I will update this later
+[Software Demo Video](https://youtu.be/yBgvWJtK0wM)
 
 ## Development Environment
 
